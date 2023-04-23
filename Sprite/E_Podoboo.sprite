@@ -1,0 +1,20 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 0 16 16",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 1,
+			"Frames" : "0",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

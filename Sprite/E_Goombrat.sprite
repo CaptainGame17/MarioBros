@@ -1,0 +1,70 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "1 1 17 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "18 1 34 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "35 1 51 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "18 1 34 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "52 1 68 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "69 1 85 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "86 1 102 17",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "5",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "1",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "4",
+			"Name" : "Stomped"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "SwimDash"
+		},
+		{
+			"Frames" : "5",
+			"Name" : "SwimIdle"
+		},
+		{
+			"Delay" : 8,
+			"Frames" : "0,1,2,3",
+			"Name" : "Walk"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
