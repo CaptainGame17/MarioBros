@@ -5,10 +5,28 @@
 			"Offset" : "8.0 16.0",
 			"Rect" : "0 0 16 16",
 			"WingStyle" : 0
+		},
+		{
+			"Offset" : "14.0 16.0",
+			"Rect" : "17 0 45 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 16.0",
+			"Rect" : "46 0 68 16",
+			"WingStyle" : 0
 		}
 	],
 	"NamedAnimations" : 
 	[
+		{
+			"Frames" : "1",
+			"Name" : "Fly1"
+		},
+		{
+			"Frames" : "2",
+			"Name" : "Fly2"
+		},
 		{
 			"Delay" : 1,
 			"Frames" : "0",
