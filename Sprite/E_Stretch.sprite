@@ -1,0 +1,84 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 13.0",
+			"Rect" : "1 2 18 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "19 1 36 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "37 1 54 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "55 1 72 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "73 1 90 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "91 1 108 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "109 1 126 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 11.0",
+			"Rect" : "127 4 144 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 7.0",
+			"Rect" : "145 8 159 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 4.0",
+			"Rect" : "160 11 174 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "0.0 0.0",
+			"Rect" : "0 0 0 0",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "0",
+			"Name" : "Die"
+		},
+		{
+			"Delay" : 4,
+			"Frames" : "7,8,9,10",
+			"Name" : "Hiding"
+		},
+		{
+			"Delay" : 4,
+			"Frames" : "1,2,3,4,5,6",
+			"Name" : "Idle"
+		},
+		{
+			"Delay" : 4,
+			"Frames" : "1,2,3,4,5,6",
+			"Name" : "Walk"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

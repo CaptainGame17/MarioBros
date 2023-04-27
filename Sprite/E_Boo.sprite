@@ -1,0 +1,54 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "109 1 125 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "91 1 107 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "73 1 89 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "55 1 71 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "37 1 53 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "19 1 35 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "1 1 17 16",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 4,
+			"Frames" : "0,1,2,3,4,5",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "Shy"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
