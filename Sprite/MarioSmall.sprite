@@ -224,10 +224,269 @@
 			"Offset" : "8.0 21.0",
 			"Rect" : "169 23 184 44",
 			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "185 22 199 43",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "200 22 214 43",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5.0 20.0",
+			"Rect" : "215 22 229 42",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "230 24 244 45",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "245 24 260 45",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 20.0",
+			"Rect" : "261 22 276 42",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "277 22 291 43",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 22.0",
+			"Rect" : "292 21 308 41",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5.0 17.0",
+			"Rect" : "3 46 16 63",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 22.0",
+			"Rect" : "17 46 31 68",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "32 46 47 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "48 46 60 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "61 46 76 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 21.0",
+			"Rect" : "77 46 89 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "90 46 104 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "105 46 119 66",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "120 46 134 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "135 46 149 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "150 46 164 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "165 46 179 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "180 46 196 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 21.0",
+			"Rect" : "197 46 213 67",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 22.0",
+			"Rect" : "214 43 227 65",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 15.0",
+			"Rect" : "228 46 240 61",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 13.0",
+			"Rect" : "241 48 256 60",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 15.0",
+			"Rect" : "257 46 269 61",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 13.0",
+			"Rect" : "270 48 285 60",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 15.0",
+			"Rect" : "286 46 298 61",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 14.0",
+			"Rect" : "299 47 312 61",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 23.0",
+			"Rect" : "1 69 15 90",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 23.0",
+			"Rect" : "16 69 31 90",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 23.0",
+			"Rect" : "32 69 46 90",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 23.0",
+			"Rect" : "47 69 62 90",
+			"SubPositions" : null
 		}
 	],
 	"NamedAnimations" : 
 	[
+		{
+			"Frames" : "61,62,63,64",
+			"Name" : "AirSpin"
+		},
+		{
+			"Frames" : "40",
+			"Name" : "CarryCrouch"
+		},
+		{
+			"Frames" : "32",
+			"Name" : "CarryIdle"
+		},
+		{
+			"Frames" : "39",
+			"Name" : "CarryJump"
+		},
+		{
+			"Frames" : "41",
+			"Name" : "CarryLookUp"
+		},
+		{
+			"Frames" : "33,34,35,36,37,38",
+			"Name" : "CarryRun"
+		},
+		{
+			"Frames" : "52,53",
+			"Name" : "CarrySwim"
+		},
 		{
 			"Frames" : "29,30",
 			"Name" : "Climb"
@@ -251,6 +510,10 @@
 		{
 			"Frames" : "12",
 			"Name" : "DieFreeze"
+		},
+		{
+			"Frames" : "56,57,58,59,60",
+			"Name" : "GroundPound"
 		},
 		{
 			"Frames" : "19",
@@ -297,8 +560,24 @@
 			"Name" : "Skid"
 		},
 		{
+			"Frames" : "42,43,44,45",
+			"Name" : "SpinJump"
+		},
+		{
+			"Frames" : "46,47,48,49,50,51",
+			"Name" : "Swim"
+		},
+		{
+			"Frames" : "46,47",
+			"Name" : "SwimIdle"
+		},
+		{
 			"Frames" : "1,2,3,4,5,6",
 			"Name" : "Walk"
+		},
+		{
+			"Frames" : "54",
+			"Name" : "WallSlide"
 		}
 	],
 	"SubPositions" : "Helmet,Propeller",
