@@ -121,7 +121,6 @@
 			"Name" : "ShellSpin"
 		},
 		{
-			"Delay" : 8,
 			"Frames" : "0,1,2,3,4",
 			"Name" : "Walk"
 		}
