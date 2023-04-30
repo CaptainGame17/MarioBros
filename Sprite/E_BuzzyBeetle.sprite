@@ -27,43 +27,43 @@
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "71 0 83 11",
+			"Offset" : "6.0 10.0",
+			"Rect" : "71 1 83 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "84 0 97 11",
+			"Offset" : "6.0 10.0",
+			"Rect" : "84 1 97 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "7.0 11.0",
-			"Rect" : "98 0 112 11",
+			"Offset" : "7.0 10.0",
+			"Rect" : "98 1 112 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "7.0 11.0",
-			"Rect" : "113 0 126 11",
+			"Offset" : "7.0 10.0",
+			"Rect" : "113 1 126 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "127 0 139 11",
+			"Offset" : "6.0 10.0",
+			"Rect" : "127 1 139 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "140 0 153 11",
+			"Offset" : "6.0 10.0",
+			"Rect" : "140 1 153 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "7.0 11.0",
-			"Rect" : "154 0 168 11",
+			"Offset" : "7.0 10.0",
+			"Rect" : "154 1 168 11",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "7.0 11.0",
-			"Rect" : "169 0 182 11",
+			"Offset" : "7.0 10.0",
+			"Rect" : "169 1 182 11",
 			"WingStyle" : 0
 		}
 	],
