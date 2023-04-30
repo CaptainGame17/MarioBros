@@ -946,6 +946,7 @@
 			"Name" : "RunMax"
 		},
 		{
+			"Delay" : 3,
 			"Frames" : "9,10,11",
 			"Name" : "Skid"
 		},
