@@ -186,8 +186,8 @@
 		{
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
-			"Offset" : "7.0 16.0",
-			"Rect" : "219 5 233 21",
+			"Offset" : "7.0 14.0",
+			"Rect" : "219 7 233 21",
 			"SubPositions" : 
 			[
 				{
@@ -603,7 +603,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "90 46 104 67",
+			"Rect" : "90 46 105 67",
 			"SubPositions" : 
 			[
 				{
@@ -616,7 +616,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "105 46 119 66",
+			"Rect" : "105 46 120 66",
 			"SubPositions" : 
 			[
 				{
@@ -629,7 +629,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "120 46 134 67",
+			"Rect" : "120 46 135 67",
 			"SubPositions" : 
 			[
 				{
@@ -642,7 +642,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "135 46 149 67",
+			"Rect" : "135 46 150 67",
 			"SubPositions" : 
 			[
 				{
@@ -655,7 +655,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "150 46 164 67",
+			"Rect" : "150 46 165 67",
 			"SubPositions" : 
 			[
 				{
@@ -668,7 +668,7 @@
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "7.0 21.0",
-			"Rect" : "165 46 179 67",
+			"Rect" : "165 46 180 67",
 			"SubPositions" : 
 			[
 				{
