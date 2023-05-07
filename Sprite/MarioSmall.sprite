@@ -845,6 +845,13 @@
 					"Position" : "-2 -8"
 				}
 			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 21.0",
+			"Rect" : "63 69 79 90",
+			"SubPositions" : null
 		}
 	],
 	"NamedAnimations" : 
@@ -898,7 +905,7 @@
 			"Name" : "Die"
 		},
 		{
-			"Frames" : "12",
+			"Frames" : "65",
 			"Name" : "DieFreeze"
 		},
 		{
