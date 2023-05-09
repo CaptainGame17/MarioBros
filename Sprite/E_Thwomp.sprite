@@ -1,0 +1,73 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "11.0 32.0",
+			"Rect" : "0 0 23 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 32.0",
+			"Rect" : "24 0 47 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 32.0",
+			"Rect" : "48 0 71 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "72 0 96 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "97 0 121 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 31.0",
+			"Rect" : "122 0 146 32",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 31.0",
+			"Rect" : "146 0 169 32",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "2",
+			"Name" : "Anger"
+		},
+		{
+			"Frames" : "4",
+			"Name" : "HorzAnger"
+		},
+		{
+			"Frames" : "3",
+			"Name" : "HorzNear"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "1",
+			"Name" : "Near"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "UpAnger"
+		},
+		{
+			"Frames" : "5",
+			"Name" : "UpNear"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
