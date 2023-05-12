@@ -1,0 +1,66 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "6.0 11.0",
+			"Rect" : "1 4 13 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 16.0",
+			"Rect" : "14 1 28 15",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "5.0 13.0",
+			"Rect" : "29 3 39 13",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 11.0",
+			"Rect" : "1 19 13 30",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 16.0",
+			"Rect" : "14 16 28 30",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "5.0 13.0",
+			"Rect" : "29 18 39 28",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "0",
+			"Name" : "Body"
+		},
+		{
+			"Frames" : "3",
+			"Name" : "BodyRed"
+		},
+		{
+			"Delay" : 7,
+			"Frames" : "2",
+			"Name" : "CannonBall"
+		},
+		{
+			"Delay" : 7,
+			"Frames" : "5",
+			"Name" : "CannonBallRed"
+		},
+		{
+			"Frames" : "1",
+			"Name" : "Head"
+		},
+		{
+			"Frames" : "4",
+			"Name" : "HeadRed"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
