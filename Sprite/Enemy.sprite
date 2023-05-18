@@ -4,1085 +4,1319 @@
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "0 8 16 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "17 8 33 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 8.0",
 			"Rect" : "34 16 50 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "51 7 67 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "68 5 84 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "85 1 101 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "102 0 118 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "119 10 135 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "136 9 152 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "153 10 169 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "170 10 186 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "187 10 203 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "204 10 220 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "221 1 237 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 24.0",
 			"Rect" : "239 0 254 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "255 10 271 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "272 9 288 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "289 10 305 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "306 10 322 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "323 10 339 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "340 10 356 24",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "0 25 16 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "17 26 33 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "35 26 50 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "52 26 67 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "69 26 84 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "86 26 101 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "103 27 118 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "120 27 135 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "137 27 152 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "154 27 169 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "170 26 186 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "188 25 202 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "205 25 219 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "221 25 237 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "238 26 254 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "255 26 271 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "272 26 288 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "289 26 305 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "306 26 322 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "323 26 339 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "340 27 356 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "357 27 373 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "374 27 390 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "391 27 407 41",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "0 42 16 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "17 42 33 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "41 43 59 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "75 43 92 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "108 43 125 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "133 43 149 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "150 51 166 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "168 50 182 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "184 43 200 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "201 42 217 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 20.0",
 			"Rect" : "218 46 234 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 18.0",
 			"Rect" : "235 48 251 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "9.0 16.0",
 			"Rect" : "259 50 278 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "10.0 8.0",
 			"Rect" : "291 58 312 66",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "0 67 16 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 21.0",
 			"Rect" : "17 70 33 87",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "34 75 50 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "52 75 67 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "68 75 84 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "86 75 101 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "102 77 118 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "120 75 135 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "4.0 8.0",
 			"Rect" : "140 83 148 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "153 75 169 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "170 67 186 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "187 75 203 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 18.0",
 			"Rect" : "206 73 219 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 10.0",
 			"Rect" : "223 77 236 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 14.0",
 			"Rect" : "243 75 265 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 14.0",
 			"Rect" : "276 75 298 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 14.0",
 			"Rect" : "309 75 331 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 14.0",
 			"Rect" : "342 75 364 91",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "0 93 14 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "17 93 31 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "15.0 17.0",
 			"Rect" : "34 92 64 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "15.0 17.0",
 			"Rect" : "67 92 97 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "15.0 16.0",
 			"Rect" : "100 93 130 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "15.0 16.0",
 			"Rect" : "133 93 163 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "6.0 12.0",
 			"Rect" : "169 97 177 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "6.0 5.0",
 			"Rect" : "186 101 194 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "199 95 215 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "216 94 232 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "233 93 249 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "250 94 266 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "267 95 283 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "284 95 300 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "301 95 317 109",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "0 126 24 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "29 126 53 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "54 126 78 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "24.0 41.0",
 			"Rect" : "177 110 225 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "226 134 242 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "243 134 259 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "261 134 276 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "278 134 293 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "298 126 322 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "331 126 355 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "365 126 388 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "397 126 421 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 32.0",
 			"Rect" : "0 159 32 191",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 32.0",
 			"Rect" : "33 159 65 191",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 32.0",
 			"Rect" : "66 159 98 191",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 32.0",
 			"Rect" : "99 159 131 191",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "0 192 16 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "17 192 33 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "35 192 50 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "52 192 67 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "68 192 84 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "85 192 101 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "103 192 118 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 22.0",
 			"Rect" : "124 194 146 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 22.0",
 			"Rect" : "157 194 179 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 22.0",
 			"Rect" : "190 194 212 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "218 200 234 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "235 200 251 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "252 200 268 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "269 200 285 216",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "0 227 16 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "17 227 33 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 12.0",
 			"Rect" : "39 230 62 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "10.0 12.0",
 			"Rect" : "72 230 94 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 13.0",
 			"Rect" : "105 228 128 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "10.0 12.0",
 			"Rect" : "138 230 160 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "166 226 182 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "183 226 199 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "200 227 216 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 20.0",
 			"Rect" : "217 222 233 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 18.0",
 			"Rect" : "234 224 250 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 20.0",
 			"Rect" : "251 222 267 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 25.0",
 			"Rect" : "268 217 284 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 25.0",
 			"Rect" : "285 217 301 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "5.0 12.0",
 			"Rect" : "305 230 315 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "320 228 334 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "3.0 11.0",
 			"Rect" : "341 231 348 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "3.0 10.0",
 			"Rect" : "358 233 365 242",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "0 247 16 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "18 255 33 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "34 256 50 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 16.0",
 			"Rect" : "52 254 67 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "68 256 84 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "85 256 101 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "103 255 118 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "119 256 135 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 15.0",
 			"Rect" : "137 255 152 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "153 255 169 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "9.0 23.0",
 			"Rect" : "174 247 197 270",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 -7"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "9.0 22.0",
 			"Rect" : "198 248 221 270",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 -8"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "9.0 25.0",
 			"Rect" : "222 245 240 270",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 -6"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 12.0",
 			"Rect" : "255 258 267 270",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 24.0",
 			"Rect" : "0 273 32 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 22.0",
 			"Rect" : "33 275 57 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "14.0 26.0",
 			"Rect" : "58 271 86 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "14.0 26.0",
 			"Rect" : "87 271 115 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "14.0 26.0",
 			"Rect" : "116 271 144 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "14.0 26.0",
 			"Rect" : "145 271 173 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 16.0",
 			"Rect" : "174 281 201 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 16.0",
 			"Rect" : "202 281 229 297",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "0 302 16 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "17 301 33 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "34 302 50 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "51 302 67 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "68 301 84 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "85 302 101 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "102 301 118 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "119 301 135 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "136 300 152 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "153 298 169 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 13.0",
 			"Rect" : "178 304 195 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "211 303 228 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 11.0",
 			"Rect" : "244 306 261 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "6.0 7.0",
 			"Rect" : "270 310 284 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "6.0 4.0",
 			"Rect" : "287 313 301 317",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 32.0",
 			"Rect" : "79 126 102 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "11.0 32.0",
 			"Rect" : "103 126 126 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "127 126 151 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "152 126 176 158",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "16.0 32.0",
 			"Rect" : "0 318 32 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "33 336 47 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "48 334 64 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "65 334 81 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "82 334 98 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "99 326 115 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "116 326 132 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 24.0",
 			"Rect" : "134 326 149 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 24.0",
 			"Rect" : "151 326 166 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "167 335 183 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "184 334 200 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "201 334 217 349",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 15.0",
 			"Rect" : "218 335 234 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "235 334 251 350",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "252 334 268 349",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 27.0",
 			"Rect" : "269 322 296 349",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "13.0 27.0",
 			"Rect" : "297 322 324 349",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "32.0 64.0",
 			"Rect" : "0 351 64 415",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "65 352 81 366",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "5.0 12.0",
 			"Rect" : "82 356 92 368",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "7.0 14.0",
 			"Rect" : "93 354 107 368",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "6.0 12.0",
 			"Rect" : "108 355 120 367",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "121 354 137 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "138 354 154 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 7.0",
 			"Rect" : "155 363 171 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "172 353 188 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "189 351 205 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "206 354 222 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "223 354 239 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "240 353 256 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 17.0",
 			"Rect" : "257 351 273 370",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 23.0",
 			"Rect" : "65 370 81 393",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 24.0",
 			"Rect" : "82 369 98 393",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "99 377 115 393",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "116 377 132 393",
+			"SubPositions" : null,
 			"WingStyle" : 0
 		}
 	],
 	"NamedAnimations" : null,
-	"SubPositions" : "",
+	"SubPositions" : "Wing1",
 	"Version" : "Neoarc's Sprite v2.0"
 }

@@ -4,12 +4,34 @@
 		{
 			"Offset" : "8.0 14.0",
 			"Rect" : "1 2 18 16",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 1"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "4 1"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "5.0 14.0",
 			"Rect" : "21 2 31 16",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 1"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "4 1"
+				}
+			],
+			"WingStyle" : 3
 		}
 	],
 	"NamedAnimations" : 
@@ -23,6 +45,6 @@
 			"Name" : "Idle"
 		}
 	],
-	"SubPositions" : "",
+	"SubPositions" : "Wing1,Wing2",
 	"Version" : "Neoarc's Sprite v2.0"
 }

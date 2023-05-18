@@ -4,37 +4,114 @@
 		{
 			"Offset" : "11.0 32.0",
 			"Rect" : "0 0 23 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-11 -12"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -12"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "11.0 32.0",
 			"Rect" : "24 0 47 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-11 -12"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -12"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "11.0 32.0",
 			"Rect" : "48 0 71 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-11 -12"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -12"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "72 0 96 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-10 -12"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -12"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "12.0 32.0",
 			"Rect" : "97 0 121 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-10 -12"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -12"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "11.0 31.0",
 			"Rect" : "122 0 146 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-11 -13"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -13"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "11.0 31.0",
 			"Rect" : "146 0 169 32",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-11 -13"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "12 -13"
+				}
+			],
+			"WingStyle" : 3
 		}
 	],
 	"NamedAnimations" : 
@@ -68,6 +145,6 @@
 			"Name" : "UpNear"
 		}
 	],
-	"SubPositions" : "",
+	"SubPositions" : "Wing1,Wing2",
 	"Version" : "Neoarc's Sprite v2.0"
 }

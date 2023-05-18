@@ -4,22 +4,66 @@
 		{
 			"Offset" : "8.0 19.0",
 			"Rect" : "1 1 17 20",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 0"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "5 0"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "8.0 19.0",
 			"Rect" : "18 1 34 20",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 0"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "5 0"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "8.0 19.0",
 			"Rect" : "1 21 17 40",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 0"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "5 0"
+				}
+			],
+			"WingStyle" : 3
 		},
 		{
 			"Offset" : "8.0 19.0",
 			"Rect" : "18 21 34 40",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 0"
+				},
+				{
+					"Name" : "Wing2",
+					"Position" : "5 0"
+				}
+			],
+			"WingStyle" : 3
 		}
 	],
 	"NamedAnimations" : 
@@ -41,6 +85,6 @@
 			"Name" : "LookUp"
 		}
 	],
-	"SubPositions" : "",
+	"SubPositions" : "Wing1,Wing2",
 	"Version" : "Neoarc's Sprite v2.0"
 }

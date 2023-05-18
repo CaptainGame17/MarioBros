@@ -4,12 +4,26 @@
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "1 1 17 17",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-3 -7"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "8.0 16.0",
 			"Rect" : "18 1 34 17",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-3 -7"
+				}
+			],
+			"WingStyle" : 2
 		}
 	],
 	"NamedAnimations" : 
@@ -23,6 +37,6 @@
 			"Name" : "Idle"
 		}
 	],
-	"SubPositions" : "",
+	"SubPositions" : "Wing1",
 	"Version" : "Neoarc's Sprite v2.0"
 }

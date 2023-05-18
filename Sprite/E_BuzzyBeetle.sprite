@@ -4,67 +4,110 @@
 		{
 			"Offset" : "6.0 11.0",
 			"Rect" : "0 0 14 11",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -5"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 11.0",
 			"Rect" : "15 0 28 11",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -4"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 11.0",
 			"Rect" : "29 0 42 11",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -4"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 11.0",
 			"Rect" : "43 0 56 11",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -5"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 11.0",
 			"Rect" : "57 0 70 11",
-			"WingStyle" : 0
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -4"
+				}
+			],
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 10.0",
 			"Rect" : "71 1 83 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 10.0",
 			"Rect" : "84 1 97 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "7.0 10.0",
 			"Rect" : "98 1 112 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "7.0 10.0",
 			"Rect" : "113 1 126 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 10.0",
 			"Rect" : "127 1 139 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "6.0 10.0",
 			"Rect" : "140 1 153 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "7.0 10.0",
 			"Rect" : "154 1 168 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		},
 		{
 			"Offset" : "7.0 10.0",
 			"Rect" : "169 1 182 11",
-			"WingStyle" : 0
+			"SubPositions" : null,
+			"WingStyle" : 2
 		}
 	],
 	"NamedAnimations" : 
@@ -94,6 +137,6 @@
 			"Name" : "Walk"
 		}
 	],
-	"SubPositions" : "",
+	"SubPositions" : "Wing1",
 	"Version" : "Neoarc's Sprite v2.0"
 }
