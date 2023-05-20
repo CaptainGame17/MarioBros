@@ -2,8 +2,8 @@
 	"Frames" : 
 	[
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "1 4 13 15",
+			"Offset" : "6.0 12.0",
+			"Rect" : "1 3 13 15",
 			"WingStyle" : 0
 		},
 		{
@@ -17,8 +17,8 @@
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "6.0 11.0",
-			"Rect" : "1 19 13 30",
+			"Offset" : "6.0 12.0",
+			"Rect" : "1 18 13 30",
 			"WingStyle" : 0
 		},
 		{
