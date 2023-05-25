@@ -1,0 +1,119 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "0 0 17 23",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "18 0 35 23",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "36 0 53 23",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "54 0 71 23",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "0 24 17 47",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "18 24 35 47",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "36 24 53 47",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 23.0",
+			"Rect" : "54 24 71 47",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-7 -12"
+				}
+			],
+			"WingStyle" : 2
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "2",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "0,1,2,3",
+			"Name" : "Idle"
+		},
+		{
+			"Delay" : 4,
+			"Frames" : "4,5,6,7",
+			"Name" : "ThrowFire"
+		}
+	],
+	"SubPositions" : "Wing1",
+	"Version" : "Neoarc's Sprite v2.0"
+}
