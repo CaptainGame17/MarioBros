@@ -251,8 +251,8 @@
 		{
 			"FaceAngle" : 0,
 			"FaceDirection" : 0,
-			"Offset" : "6.0 15.0",
-			"Rect" : "294 1 306 10",
+			"Offset" : "6.0 14.0",
+			"Rect" : "294 1 306 9",
 			"SubPositions" : 
 			[
 				{
@@ -915,7 +915,8 @@
 			"Name" : "DieFreeze"
 		},
 		{
-			"Frames" : "56,57,58,59,60",
+			"Delay" : 2,
+			"Frames" : "55,56,57,58,59,60",
 			"Name" : "GroundPound"
 		},
 		{
