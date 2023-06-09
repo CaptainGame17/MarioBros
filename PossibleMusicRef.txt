@@ -1,0 +1,31 @@
+Overworld		?
+Underground		Rocky Valley (DK94)
+Tower			?
+Castle			Jungle Theme (DK94)
+Desert			?
+Beach			?
+Underwater		?
+Forest			?
+GhostHouse		?
+Snow			Stage Theme 4 (DK94)
+Mountain		?
+Athletic/Sky	End of Stage 3 (Sky Skipper)		Could be a bit faster paced. Probably mix some SMB1 sky theme vibes in for good measure as well I suppose.
+Space			?
+Airship			Scaling the Tower (DK94) OR Showdown at the Tower (DK94)	Scaling the Tower is somewhat repetitive and high pitched, but Showdown at the Tower is already used by Mario Arcade airship. So pick whichever I guess.
+Sewer			?
+Volcano			?
+City			?
+Factory			?
+Neon			?
+Watch			?
+
+MISC
+Battle Music 	Clash (DK94)
+Final Boss		Giant DK (DK94)				It has the iconic DK jingle in it, bonus points from me :)
+P-Switch		Temporary Bridge (DK94)
+Bonus			Track 18 (KMB)
+
+IMPORTANT LINKS
+DK94 OST 		https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-1994-gameboy-gamerip
+KMB OST			https://downloads.khinsider.com/game-soundtracks/album/kaettekita-mario-bros.-nes
+Sky Skipper		https://youtu.be/UmDmakSWlKo?t=39
