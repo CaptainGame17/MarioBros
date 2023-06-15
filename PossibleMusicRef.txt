@@ -1,4 +1,4 @@
-Overworld		?
+Overworld		MB Stage Theme 1 (GBA Mario Bros)
 Underground		Rocky Valley (DK94)
 Tower			?
 Castle			Jungle Theme (DK94)
@@ -23,9 +23,12 @@ MISC
 Battle Music 	Clash (DK94)
 Final Boss		Giant DK (DK94)				It has the iconic DK jingle in it, bonus points from me :)
 P-Switch		Temporary Bridge (DK94)
-Bonus			Track 18 (KMB)
+Bonus			Track 18 (Kaettekita)
+Star			Intermission/Can Can (DK JR Arcade)
 
 IMPORTANT LINKS
-DK94 OST 		https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-1994-gameboy-gamerip
-KMB OST			https://downloads.khinsider.com/game-soundtracks/album/kaettekita-mario-bros.-nes
+DK94	 		https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-1994-gameboy-gamerip
+Kaettekita		https://downloads.khinsider.com/game-soundtracks/album/kaettekita-mario-bros.-nes
 Sky Skipper		https://youtu.be/UmDmakSWlKo?t=39
+GBA Mario Bros	https://downloads.khinsider.com/game-soundtracks/album/mario-bros
+DK JR Arcade	https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-jr.-arcade
