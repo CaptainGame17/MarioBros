@@ -1,16 +1,18 @@
+Music is in NES soundchip
+
 Overworld		MB Stage Theme 1 (GBA Mario Bros)
 Underground		Rocky Valley (DK94)
-Tower			?
+Tower			Battle Against Foreman Spike (WC98)	Could perhaps be a little bit slower
 Castle			Jungle Theme (DK94)
 Desert			?
-Beach			?
+Beach			Bonus Stage (Wrecking Crew)			Could use a little bit extra since it feels a little empty as-is
 Underwater		?
 Forest			?
 GhostHouse		?
 Snow			Stage Theme 4 (DK94)
 Mountain		?
 Athletic/Sky	End of Stage 3 (Sky Skipper)		Could be a bit faster paced. Probably mix some SMB1 sky theme vibes in for good measure as well I suppose.
-Space			?
+Space			BIOS (FDS BIOS)						I like the grand sound of it but it would obviously have to be extended.
 Airship			Scaling the Tower (DK94) OR Showdown at the Tower (DK94)	Scaling the Tower is somewhat repetitive and high pitched, but Showdown at the Tower is already used by Mario Arcade airship. So pick whichever I guess.
 Sewer			?
 Volcano			?
@@ -20,15 +22,18 @@ Neon			?
 Watch			?
 
 MISC
-Battle Music 	Clash (DK94)
+Battle		 	Clash (DK94)
 Final Boss		Giant DK (DK94)				It has the iconic DK jingle in it, bonus points from me :)
 P-Switch		Temporary Bridge (DK94)
 Bonus			Track 18 (Kaettekita)
 Star			Intermission/Can Can (DK JR Arcade)
 
-IMPORTANT LINKS
+HELPFUL LINKS
 DK94	 		https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-1994-gameboy-gamerip
 Kaettekita		https://downloads.khinsider.com/game-soundtracks/album/kaettekita-mario-bros.-nes
 Sky Skipper		https://youtu.be/UmDmakSWlKo?t=39
 GBA Mario Bros	https://downloads.khinsider.com/game-soundtracks/album/mario-bros
 DK JR Arcade	https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-jr.-arcade
+FDS BIOS		https://downloads.khinsider.com/game-soundtracks/album/famicom-disk-system-bios
+Wrecking Crew	https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip
+WC98			https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-98
