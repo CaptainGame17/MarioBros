@@ -8,6 +8,7 @@ Spriters
 Seven
 FungiCaptain
 JamiesName
+TurnipBoy
 
 Special Thanks
 ---------
