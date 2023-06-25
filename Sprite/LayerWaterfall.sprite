@@ -4,9 +4,28 @@
 		{
 			"Offset" : "0.0 16.0",
 			"Rect" : "0 0 512 144"
+		},
+		{
+			"Offset" : "0.0 16.0",
+			"Rect" : "513 0 1025 144"
+		},
+		{
+			"Offset" : "0.0 16.0",
+			"Rect" : "1026 0 1538 144"
+		},
+		{
+			"Offset" : "0.0 16.0",
+			"Rect" : "1539 0 2051 144"
 		}
 	],
-	"NamedAnimations" : null,
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 16,
+			"Frames" : "0,1,2,3",
+			"Name" : "Waterfall"
+		}
+	],
 	"SubPositions" : "",
 	"Version" : "Neoarc's Sprite v2.0"
 }
